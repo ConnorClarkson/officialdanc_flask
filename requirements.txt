@@ -11,7 +11,7 @@ docutils==0.15.2
 dominate==2.5.1
 ecdsa==0.15
 envs==1.3
-Flask==1.1.1
+Flask==2.2.5
 Flask-AWSCognito==1.3
 Flask-Bootstrap==3.3.7.1
 Flask-Cognito==1.14
